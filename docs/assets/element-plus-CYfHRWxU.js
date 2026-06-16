@@ -1,1 +1,0 @@
-var e={tab:"Tab",enter:"Enter",space:"Space",left:"ArrowLeft",up:"ArrowUp",right:"ArrowRight",down:"ArrowDown",esc:"Escape",delete:"Delete",backspace:"Backspace",numpadEnter:"NumpadEnter",pageUp:"PageUp",pageDown:"PageDown",home:"Home",end:"End"},a="update:modelValue",r="change",p="input",t=["","default","small","large"];export{e as a,a as i,r as n,p as r,t};
