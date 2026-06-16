@@ -1,0 +1,1 @@
+import{t}from"./RelationView-DJ_Bd6Ma.js";export{t as default};
