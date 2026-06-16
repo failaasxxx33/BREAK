@@ -1,0 +1,1 @@
+import{t}from"./RelationView-xf_theQS.js";export{t as default};
