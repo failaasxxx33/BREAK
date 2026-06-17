@@ -1,1 +1,0 @@
-import{r as e}from"./index-ZbYe9lcP.js";function r(){const{isMobile:r,isTablet:t}=e();return{getDrawerWidth:()=>r.value?"100%":t.value?"70vw":"600px",getInnerDrawerWidth:()=>r.value?"100%":t.value?"55vw":"450px"}}export{r as t};
