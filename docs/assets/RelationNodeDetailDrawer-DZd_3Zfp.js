@@ -1,1 +1,0 @@
-import{t}from"./RelationView-BpQA-jpC.js";export{t as default};
