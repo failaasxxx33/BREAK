@@ -1,0 +1,1 @@
+import{a,i as s,n as r,o,r as t,s as e,t as i}from"./echarts-XTSFKfpc.js";var m=!1,p=p=>(m||(o([a,s,r,t,i]),m=!0),e(p));export{p as initRelationECharts};
