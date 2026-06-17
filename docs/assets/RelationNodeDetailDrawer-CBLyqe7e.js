@@ -1,1 +1,0 @@
-import{t}from"./RelationView-B4JcKJUo.js";export{t as default};

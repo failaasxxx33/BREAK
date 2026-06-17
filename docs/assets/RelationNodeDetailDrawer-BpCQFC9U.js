@@ -1,0 +1,1 @@
+import{t}from"./RelationView-DCE1_nRD.js";export{t as default};

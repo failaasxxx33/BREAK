@@ -1,0 +1,1 @@
+function r(r,t){return t.split(".").reduce((r,t)=>{if(null==r)return;const n=t.match(/^(.+)\[(\d+)\]$/);if(n){const[,t,e]=n,i=r[t];return Array.isArray(i)?i[Number(e)]:void 0}return r[t]},r)}function t(t,n){const e=r(t,n);return Array.isArray(e)?e.map(r=>String(r).trim()).filter(r=>r.length>0):[]}export{r as n,t};
