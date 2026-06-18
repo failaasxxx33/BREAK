@@ -1,0 +1,1 @@
+import{t as e}from"./useBreakpoints-D5Ghwy7W.js";function t(){const{isMobile:t,isTablet:r}=e();return{getDrawerWidth:()=>t.value?"100%":r.value?"70vw":"600px",getInnerDrawerWidth:()=>t.value?"100%":r.value?"55vw":"450px"}}export{t};

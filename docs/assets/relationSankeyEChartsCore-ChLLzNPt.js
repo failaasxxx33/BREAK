@@ -1,0 +1,1 @@
+import{a,n as s,o as r,r as o,t}from"./echarts-aHXATt2H.js";var e=!1,m=m=>(e||(a([o,s,t]),e=!0),r(m));export{m as initRelationSankeyECharts};

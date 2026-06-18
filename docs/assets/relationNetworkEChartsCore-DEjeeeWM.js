@@ -1,0 +1,1 @@
+import{a,i as s,n as r,o,t}from"./echarts-aHXATt2H.js";var e=!1,i=i=>(e||(a([s,r,t]),e=!0),o(i));export{i as initRelationNetworkECharts};
